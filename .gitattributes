@@ -1,3 +1,4 @@
-
 *.csv filter=lfs diff=lfs merge=lfs -text
 *.xlsx filter=lfs diff=lfs merge=lfs -text
+datasets/crop_dataset2.csv filter=lfs diff=lfs merge=lfs -text
+datasets/Crop_Predication_dataset.xlsx filter=lfs diff=lfs merge=lfs -text
